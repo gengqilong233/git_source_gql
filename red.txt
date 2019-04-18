@@ -1,4 +1,0 @@
-red
-red2 stash后修改
-red1 dev修改
-red3 master修改
